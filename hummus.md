@@ -2,5 +2,5 @@
 ## Ingredients
 * chickpeas
 * lemon
-* olive oil
+* olive-oil
 * salt
